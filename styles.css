@@ -11,3 +11,9 @@ body {
     background-position: center;
     color: rgb(214, 4, 4);
 }
+h2 {
+  font-size: 20px;
+  border: 6px;
+  background-color: black;
+  color: rgb(214, 4, 4);
+}
