@@ -45,6 +45,7 @@ p {
 }
 .all {
   display:flex;
+  flex-direction: column;
 }
 .fresh {
   float: right;
