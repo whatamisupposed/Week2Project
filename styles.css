@@ -45,10 +45,7 @@ p {
   flex-direction: column;
   padding-left: 20px;
 }
-.fresh {
-  position: right;
-  float: right;
-}
+
 h4 {
   background-color: white;
   padding: 10px;
