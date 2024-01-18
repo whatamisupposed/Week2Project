@@ -29,7 +29,7 @@ img {
   display: flex;
   float: right;
   padding: 10px 15px 10px 15px;
-  object-fit: cover;
+  transition: .2s;
 }
 .main {
   display:flex;
