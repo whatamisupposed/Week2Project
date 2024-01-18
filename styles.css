@@ -27,7 +27,7 @@ img {
   height: 700px;
   object-fit: cover;
   display: flex;
-  
+  float: right;
   padding: 10px 15px 10px 15px;
 }
 .main {
