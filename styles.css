@@ -3,6 +3,7 @@
   display:flex;
   justify-content: flex-end;
   justify-content: space-between;
+  align-items: center;
   background-color: #c6c6cf;
   overflow: hidden;
   padding: 0px 45px;
@@ -40,4 +41,5 @@ img {
 }
 p {
   width: 230px;
+  padding-right: px;
 }
