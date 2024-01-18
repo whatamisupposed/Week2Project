@@ -1,5 +1,5 @@
 
-.topNav {
+.topNav, .top {
   display:flex;
   justify-content: flex-end;
   justify-content: space-between;
@@ -9,10 +9,7 @@
   align-items: center;
   font-size: large;
 }
-.top {
-  display: flex;
-  justify-content: space-between;
-}
+
 body {
   background-color: rgb(128, 134, 151);
   margin: 0;
