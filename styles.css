@@ -8,7 +8,7 @@
   overflow: hidden;
   padding: 0px 45px;
   align-items: center;
-  font-size: large;
+  font-size: 20px;
 }
 
 body {
@@ -45,4 +45,7 @@ p {
 }
 .all {
   display:flex;
+}
+.fresh {
+  float: right;
 }
