@@ -39,7 +39,8 @@ img {
 }
 .text {
   display:flex;
-
+  flex-direction: row;
+  text-align: left;
 }
 .home {
   color: black;
