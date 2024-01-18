@@ -43,3 +43,6 @@ p {
   width: 230px;
   padding-right: px;
 }
+.all {
+  display:flex
+}
