@@ -42,7 +42,7 @@ img {
 }
 p {
   width: 230px;
-  padding-right: px;
+  padding-right: 10px;
 }
 .all {
   display:flex;
