@@ -25,6 +25,7 @@ img {
   object-fit: cover;
   display: flex;
   float: right;
+  position: absolute;
   padding: 10px 15px 10px 15px;
 }
 .main {
@@ -58,7 +59,8 @@ h5 {
   display: flex;
   flex-direction: column;
   text-align: right;
-  position: absolute;
+  position: relative;
   width: 28%;
   height: 90%;
+
 }
