@@ -2,7 +2,7 @@ h1 {
   font-size: 50px;
   border: 50px;
   background-color: black;
-  color: rgb(214, 4, 4);
+  color: rgb(0, 0, 0);
 }
 .topNav {
   display:flex;
@@ -11,6 +11,7 @@ h1 {
   overflow: hidden;
   padding: 0px 45px;
   align-items: center;
+  font-size: large;
 }
 .top {
   display: flex;
@@ -35,4 +36,8 @@ img {
 .text {
   display:flex;
 
+}
+.home {
+  color: black;
+  font-size: large;
 }
