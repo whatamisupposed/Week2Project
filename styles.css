@@ -26,17 +26,17 @@ img {
   height: 700px;
   object-fit: cover;
   display: flex;
-  justify-content: end;
+  
   padding: 10px 15px 10px 15px;
 }
 .main {
   display:flex;
-  flex-direction: row;
+
   text-align: left;
 }
 .home {
   color: black;
-  font-size: 10px;
+
 }
 p {
   width: 230px;
