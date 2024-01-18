@@ -50,5 +50,6 @@ p {
   padding-left: 20px;
 }
 .fresh {
+  position: right;
   float: right;
 }
