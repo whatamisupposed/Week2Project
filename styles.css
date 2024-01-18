@@ -25,7 +25,6 @@ img {
   object-fit: cover;
   display: flex;
   float: right;
-  position: absolute;
   padding: 10px 15px 10px 15px;
 }
 .main {
