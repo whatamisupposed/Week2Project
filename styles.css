@@ -33,7 +33,7 @@ img {
   width: 20%;
   height: 700px;
   object-fit: cover;
- display: flex;
+  
  justify-content: start;
   padding: 10px 0px 10px 0px;
 }
