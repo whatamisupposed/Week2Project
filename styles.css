@@ -55,8 +55,6 @@ h5 {
   padding: 20px 10px 20px 10px;
 }
 .box1 {
-  left: 70px;
-  bottom: -100px;
-  float: right;
+  
   position: relative;
 }
