@@ -1,6 +1,6 @@
 h1 {
   font-size: 50px;
-  border: 50px;
+  margin: 20px;
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
 }
@@ -44,5 +44,8 @@ img {
 }
 .home {
   color: black;
-  font-size: large;
+  font-size: 10px;
+}
+p {
+  width: 50px;
 }
