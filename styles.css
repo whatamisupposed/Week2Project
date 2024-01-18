@@ -59,5 +59,6 @@ h5 {
   flex-direction: column;
   text-align: right;
   position: absolute;
-
+  width: 28%;
+  height: 90%;
 }
