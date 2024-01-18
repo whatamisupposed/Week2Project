@@ -61,3 +61,7 @@ h5 {
   background-color: rgb(23, 155, 19);
   padding: 20px 10px 20px 10px;
 }
+.box1 {
+  left: 30px;
+  float: right;
+}
