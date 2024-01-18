@@ -24,7 +24,7 @@ h2 {
 }
 img {
   width: 20%;
-  height: 700px;
+  height: 100%;
   object-fit: cover;
   display: flex;
   float: right;
@@ -44,5 +44,5 @@ p {
   padding-right: px;
 }
 .all {
-  display:flex
+  display:flex;
 }
