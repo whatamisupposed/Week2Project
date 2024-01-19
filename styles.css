@@ -55,7 +55,7 @@ flex-direction: row-reverse;
 .main {
   display:flex;
 
-  text-align: left;
+  text-align: right;
 }
 .home {
   color: black;
@@ -67,7 +67,7 @@ p {
 }
 .all {
   display:flex;
- 
+  flex-direction: column;
   padding-left: 20px;
 }
 
