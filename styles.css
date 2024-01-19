@@ -33,7 +33,7 @@
 }
 h1, h2 {
   font-size: 70px;
-  
+  padding: 0;
 }
 .all {
   display: flex;
