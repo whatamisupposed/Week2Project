@@ -38,7 +38,7 @@ h1, h2 {
 .all {
   display: flex;
   flex-direction: column;
-  padding-left: 20px;
+  
 }
 
 body {
