@@ -20,7 +20,7 @@
 
   justify-content: space-between;
   align-items: center;
-  background-color: #cfcfcf;
+  background-color: #ffffff;
 
   padding: 10px 45px;
   overflow: hidden;
@@ -38,7 +38,8 @@ h2 {
 .all {
   display: flex;
   flex-direction: column;
-
+padding: 70px;
+margin-left: 70px;
 }
 
 body {
@@ -62,23 +63,22 @@ body {
 
 .red {
     color: red;
-    font-size: 35px;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 .green {
     color: #3baf1e;
-    font-size: 35px;
+    font-size: 40px;
+    font-weight: bold;
 }
 p {
   width: 230px;
   padding-right: 10px;
+  font-size: 20px;
 
 }
-.all {
-  display:flex;
-  flex-direction: column;
-  padding-left: 20px;
-}
+
 
 h4 {
   background-color: white;
@@ -97,18 +97,18 @@ h5 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #cfcfcf;
+  background-color: #fdf9f9;
   padding: 10px 45px;
   overflow: hidden;
   font-size: 20px;
 }
 
 img {
-  width: 25%;
-  height: 70%SS;
-  display: flex;
+
+  width: 360px;
+  height: 650px;
   object-fit: cover;
-  justify-content: space-around;
+
   margin-top: 20px;
   transition: .2s;
   padding: 10px 15px 10px 15px;
@@ -121,12 +121,12 @@ img {
 
 .img-group img,
 .img:hover {
-    width: 380px;
-    height: 580px;
-    object-fit: cover;
-    display: block;
-    margin-bottom: 10px;
-    transition: .2s;
+    
+  width: 360px;
+  height: 650px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  transition: .2s;
 }
 h3 {
   margin-bottom: 20px;
@@ -134,14 +134,22 @@ h3 {
 h4, h5 {
   margin: 0;
 }
+h4 {
+width: 50%;
+text-align: left;
+display: flex;
 
-
+}
+h5 {
+width: auto;
+}
 .caption {
   position: absolute;
   bottom: 0;
   right: 0;
-  padding: 10px;
-  text-align: center;
+  padding: 100px 15px 112px 90px;
+  text-align: right;
+  display: inline-block;
 }
 
 .caption h4, .caption h5 {
@@ -152,4 +160,8 @@ h4, h5 {
   background-color: #3baf1e;
   padding: 10px;
   color: white;
+}
+.right {
+  display: flex;
+  margin-left: 25px;
 }
