@@ -35,10 +35,13 @@ h1, h2 {
   font-size: 70px;
   padding: 0;
 }
+h2 {
+  margin-top: 10px;
+}
 .all {
   display: flex;
   flex-direction: column;
-  
+
 }
 
 body {
