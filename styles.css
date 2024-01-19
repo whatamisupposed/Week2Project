@@ -32,7 +32,7 @@
   margin: 5px;
 }
 h1 {
-  font-size: 120px;
+  font-size: 90px;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 img {
   width: 280px;
   height: 480px;
-  object-fit: cover;
+  
   display: flex;
   float: right;
   padding: 10px 15px 10px 15px;
