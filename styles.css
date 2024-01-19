@@ -23,7 +23,7 @@
   justify-content: flex-end;
   justify-content: space-between;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #cfcfcf;
 
   padding: 10px 45px;
   overflow: hidden;
@@ -67,7 +67,7 @@ p {
 }
 .all {
   display:flex;
-  flex-direction: column;
+ 
   padding-left: 20px;
 }
 
@@ -76,7 +76,7 @@ h4 {
   padding: 10px;
 }
 h5 {
-  background-color: rgb(23, 155, 19);
+  background-color: #3baf1e;
   padding: 20px 10px 20px 10px;
 }
 
