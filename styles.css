@@ -1,4 +1,23 @@
+.topNav .home {
+  display: flex;
+  align-content: center;
+  flex-grow: 2;
+  font-weight: bold;
+  font-size: 25px;
+}
+.topNav .red {
+  color: red;
+  font-size: 35px;
+}
 
+.topNav .green {
+  color: #3baf1e;
+  font-size: 35px;
+}
+.topNav a:hover {
+  background-color: #3baf1e;
+  color: white;
+}
 .topNav, .top {
   display:flex;
   justify-content: flex-end;
