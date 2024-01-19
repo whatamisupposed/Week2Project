@@ -46,10 +46,14 @@ img {
   width: 280px;
   height: 480px;
   
+  object-fit: cover;
+  display: flex;
+flex-direction: row-reverse;
+  padding: 10px 15px 10px 15px;
   transition: .2s;
 }
 .main {
-  display:flex;
+  
 
   text-align: right;
 }
