@@ -104,8 +104,8 @@ h5 {
 }
 
 img {
-  width: 180px;
-  height: 480px;
+  width: 25%;
+  height: 70%SS;
   display: flex;
   object-fit: cover;
   justify-content: space-around;
