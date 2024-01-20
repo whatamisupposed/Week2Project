@@ -7,13 +7,6 @@
   font-size: 25px;
 
 }
-.topNav a {
-  margin-right: 10px; 
-}
-
-.topNav a:last-child {
-  margin-right: 0; 
-}
 
 .topNav, .top {
   display:flex;
@@ -49,8 +42,8 @@ body {
   padding: 0;
 }
 .nav {
-  font-size: large;
-  padding-right: 5%;
+  font-size: x-large;
+  padding-left: 60px;
 }
 
 
