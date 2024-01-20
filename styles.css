@@ -136,7 +136,7 @@ h4, h5 {
 }
 h4 {
 width: 50%;
-text-align: left;
+text-align: right;
 display: flex;
 
 }
@@ -152,9 +152,7 @@ width: auto;
   display: inline-block;
 }
 
-.caption h4, .caption h5 {
-  margin: 0;
-}
+
 
 .caption h5 {
   background-color: #3baf1e;
