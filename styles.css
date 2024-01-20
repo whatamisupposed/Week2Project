@@ -48,7 +48,10 @@ body {
   box-sizing: border-box;
   padding: 0;
 }
-
+.nav {
+  font-size: large;
+  padding-right: 5%;
+}
 
 
 .main {
@@ -80,10 +83,7 @@ p {
 }
 
 
-h4 {
-  background-color: white;
-  padding: 10px;
-}
+
 h5 {
   background-color: #3baf1e;
   padding: 20px 10px 20px 10px;
@@ -109,12 +109,11 @@ img {
   height: 650px;
   object-fit: cover;
 
-  margin-top: 20px;
-  transition: .2s;
-  padding: 10px 15px 10px 15px;
 }
 
 .img-group {
+  width: 380px;
+  height: 650px;
   text-align: center;
   position: relative;
 }
@@ -135,9 +134,9 @@ h4, h5 {
   margin: 0;
 }
 h4 {
-width: 75%;
-display: flex;
-text-align: end;
+  background-color: white;
+  padding: 10px;
+
 
 
 }
@@ -147,9 +146,13 @@ width: auto;
 .caption {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 10px;
   text-align: right;
-  display: inline-block;
+
+}
+.caption h4 {
+width: 100%;
+right: 0;
 }
 
 
